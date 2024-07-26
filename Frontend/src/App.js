@@ -9,7 +9,7 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/facialjs" element={<Home />} />
       </Routes>
     </Router>
   );

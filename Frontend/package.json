@@ -2,7 +2,7 @@
     "name": "craftcode",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://nadia3190.github.io/facialjs",
+    "homepage": "/facialjs",
     "dependencies": {
         "@babel/core": "^7.24.9",
         "@babel/preset-env": "^7.24.8",
