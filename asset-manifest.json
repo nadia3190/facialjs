@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/facialjs/static/css/main.4efb37a3.css",
-    "main.js": "/facialjs/static/js/main.85721098.js",
+    "main.css": "/facialjs/static/css/main.e7af8147.css",
+    "main.js": "/facialjs/static/js/main.7312f110.js",
     "static/js/542.91f158e8.chunk.js": "/facialjs/static/js/542.91f158e8.chunk.js",
     "index.html": "/facialjs/index.html"
   },
   "entrypoints": [
-    "static/css/main.4efb37a3.css",
-    "static/js/main.85721098.js"
+    "static/css/main.e7af8147.css",
+    "static/js/main.7312f110.js"
   ]
 }
